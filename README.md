@@ -1,5 +1,6 @@
 # FilmsAppWithTheMovieDB
 
+ı learned and used pagination, Result type, CodingKey, closure, protocol, foldering, extensions and weak self in this porject. this project was created programmatically
 
 
 ## Moveis page
